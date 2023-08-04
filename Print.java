@@ -6,8 +6,8 @@ public class Print
        System.out.println("Sylhet");
        System.out.println("Bangladesh");
        System.out.print("Bsc In CSE \t");
-       System.out.print("Bsc in SE");
-
+       System.out.print("Bsc in SE ");
+       System.out.print("\nMD.Naahe Uddin Laskar");
 
        
     }
